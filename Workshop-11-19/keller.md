@@ -38,7 +38,7 @@ Die Aufgabenstellung für dieses Semester ist nach den Folien:
 |12:10|Diskussion zum Brainstorming|3|
 |12:30|**Pause**||
 |13:00|Projektmitglieder assignen sich zu Ideen |4|
-|13:30|User Stories erstellen|4|
+|13:10|User Stories erstellen|4|
 |13:40|Organisation und Fragen |4|
 |14:00|Ende des Workshops||
 
