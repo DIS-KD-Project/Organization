@@ -23,15 +23,21 @@ Die Aufgabenstellung für dieses Semester ist nach den Folien:
 |Zeit|Aufgabe|Ziel|
 |---|---|---|
 |10:00|Begrüßung</br> - Überblick über den Tag</br> ||
-|10:10|Vorstellung des ersten Papers|1|
+|10:10|Vorstellung der BA|2|
 |10:20|Breakout Session|1|
-|10:30|Vorstellung des zweiten Papers|1|
+|10:30|Vorstellung des ersten Papers|1|
 |10:40|Breakout Session|1|
-|10:50|Vorstellung des dritten Papers|1|
+|10:50|Vorstellung des zweiten Papers|1|
 |11:00|Breakout Session|1|
 |11:10|**Pause**|||
-|11:20|Vorstellung der BA|2|
-|11:30|Breakout Session|2|
+|11:20|Vorstellung des dritten Papers|1|
+|11:30|**Pause**
+Breakout Session|2|
+|11:50|Einführung in den Workshop
+|12:00|Brainstorming in GitHub
+|12:10|Diskussion zum Brainstorming
+|12:30|User Stories erstellen
+
 |11:40|Aufgabestellung in *User Stories* überführen</br>- TH-Website</br>- externe Datensätze</br>- externe Websites<br>- Datenmodellierung|3|
 |12:30|**Pause**||
 |13:00|Projektmitglieder assignen sich zu Storys|3|
