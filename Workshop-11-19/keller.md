@@ -23,26 +23,24 @@ Die Aufgabenstellung für dieses Semester ist nach den Folien:
 |Zeit|Aufgabe|Ziel|
 |---|---|---|
 |10:00|Begrüßung</br> - Überblick über den Tag</br> ||
-|10:10|Vorstellung der BA|2|
-|10:20|Breakout Session|1|
+|10:10|Vorstellung der BA|1|
+|10:20|Reflexion in Breakout Session|1|
 |10:30|Vorstellung des ersten Papers|1|
-|10:40|Breakout Session|1|
-|10:50|Vorstellung des zweiten Papers|1|
-|11:00|Breakout Session|1|
-|11:10|**Pause**|||
-|11:20|Vorstellung des dritten Papers|1|
-|11:30|**Pause**
-Breakout Session|2|
-|11:50|Einführung in den Workshop
-|12:00|Brainstorming in GitHub
-|12:10|Diskussion zum Brainstorming
-|12:30|User Stories erstellen
-
-|11:40|Aufgabestellung in *User Stories* überführen</br>- TH-Website</br>- externe Datensätze</br>- externe Websites<br>- Datenmodellierung|3|
+|10:40|Reflexion in Breakout Session|1|
+|10:50|**Pause**||
+|11:00|Vorstellung des zweiten Papers|2|
+|11:10|Reflexion in Breakout Session|2|
+|11:20|Vorstellung des dritten Papers|2|
+|11:30|Reflexion in Breakout Session|2|
+|11:40|**Pause**||
+|11:50|Einführung in den Workshop|3|
+|12:00|Brainstorming in GitHub|3|
+|12:10|Diskussion zum Brainstorming|3|
 |12:30|**Pause**||
-|13:00|Projektmitglieder assignen sich zu Storys|3|
-|13:10|Breakout Sessions der *Story Teams*|3|
-|13:50|Abschluss|3|
+|13:00|User Stories erstellen|4|
+|13:30|Projektmitglieder assignen sich zu Storys|4|
+|13:40|Organisation und Fragen |4|
+|14:00|Ende des Workshops||
 
 ## Aufgabenverteilung:
 **Projektmanagement:**
