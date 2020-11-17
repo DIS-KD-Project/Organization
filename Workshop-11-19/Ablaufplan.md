@@ -1,7 +1,3 @@
-# Workshop Projektplanung
-Vorschlag einer Planung für den Workshop am 19.11.2020
-
-
 ## Zielsetzung:
 Im Workshop *Projektplanung* am 19.11 wollen wir diese Ziele erarbeiten:
 1. Wir wollen einen groben Überblick über den aktuellen Stand der Wissenschaft im Bereich der Recomender Systeme für Experten Empfehlungen bekommen.
@@ -17,7 +13,7 @@ Die Aufgabenstellung für dieses Semester ist nach den Folien:
 		- zuordnung und -reduktion
 </blockquote>
 
-4. Wir wollen den nächsten sprint planen.
+4. Wir wollen den nächsten Sprint planen.
 
 ## Ablaufplan:
 |Zeit|Aufgabe|Ziel|
@@ -42,20 +38,3 @@ Die Aufgabenstellung für dieses Semester ist nach den Folien:
 |13:40|Organisation und Fragen |4|
 |14:00|Ende des Workshops||
 
-## Aufgabenverteilung:
-**Projektmanagement:**
-	- pflegt das Kanban Board
-
-**Moderation:**
-	- moderiert Meetings/Workshop
-
-**Dokumentation:**
-	- Bereitet das Konzeptpapier vor
-
-**Technischer Support:**
-	- Leistet technische Hilfestellung und Integration
-
-## To-Do:
-- [ ] Rollen Verteilen
-- [ ] Workshop Einladung erstellen und verschicken
-- [ ] GitHub Einladungen verschicken
